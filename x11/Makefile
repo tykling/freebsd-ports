@@ -96,8 +96,6 @@
     SUBDIR += guake
     SUBDIR += gxkb
     SUBDIR += hhpc
-    SUBDIR += hs-X11
-    SUBDIR += hs-X11-xft
     SUBDIR += hs-xmobar
     SUBDIR += hsetroot
     SUBDIR += i3blocks
@@ -109,6 +107,7 @@
     SUBDIR += imwheel
     SUBDIR += innerspace
     SUBDIR += j4-dmenu-desktop
+    SUBDIR += jgmenu
     SUBDIR += kanshi
     SUBDIR += kb2mb2
     SUBDIR += kde-baseapps
@@ -245,11 +244,12 @@
     SUBDIR += pipeglade
     SUBDIR += pixman
     SUBDIR += plank
-    SUBDIR += plasma-wayland-protocols 
+    SUBDIR += plasma-wayland-protocols
     SUBDIR += plasma5-kactivitymanagerd
     SUBDIR += plasma5-kgamma5
     SUBDIR += plasma5-kscreen
     SUBDIR += plasma5-kwayland-integration
+    SUBDIR += plasma5-kwayland-server
     SUBDIR += plasma5-libkscreen
     SUBDIR += plasma5-plasma
     SUBDIR += plasma5-plasma-desktop

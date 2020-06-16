@@ -115,6 +115,7 @@
     SUBDIR += deadbeef-waveform-seekbar-plugin
     SUBDIR += dekagen
     SUBDIR += denemo
+    SUBDIR += din
     SUBDIR += discid
     SUBDIR += dpf-plugins-lv2
     SUBDIR += drumgizmo
@@ -203,6 +204,7 @@
     SUBDIR += freedesktop-sound-theme
     SUBDIR += freepats
     SUBDIR += funktrackergold
+    SUBDIR += ganv
     SUBDIR += gbemol
     SUBDIR += gbsplay
     SUBDIR += geonkick-lv2
@@ -367,6 +369,7 @@
     SUBDIR += ladspa
     SUBDIR += lame
     SUBDIR += lash
+    SUBDIR += lenticular-lv2
     SUBDIR += liba52
     SUBDIR += libaacplus
     SUBDIR += libadplug
@@ -570,7 +573,6 @@
     SUBDIR += osd-lyrics
     SUBDIR += osdmixer
     SUBDIR += oss
-    SUBDIR += p5-Audio
     SUBDIR += p5-Audio-CD
     SUBDIR += p5-Audio-Ecasound
     SUBDIR += p5-Audio-FLAC-Header
@@ -686,6 +688,7 @@
     SUBDIR += qsampler
     SUBDIR += qsynth
     SUBDIR += quimup
+    SUBDIR += raul
     SUBDIR += rawrec
     SUBDIR += re
     SUBDIR += rebot3
@@ -788,6 +791,7 @@
     SUBDIR += taglookup
     SUBDIR += tagtool
     SUBDIR += tagutil
+    SUBDIR += tamgamp-lv2
     SUBDIR += tap-plugins
     SUBDIR += tap-plugins-lv2
     SUBDIR += tcd
@@ -848,7 +852,6 @@
     SUBDIR += wmmp
     SUBDIR += wmrecord
     SUBDIR += wmsmixer
-    SUBDIR += workman
     SUBDIR += wxguitar
     SUBDIR += x42-plugins-lv2
     SUBDIR += xanalyser
@@ -868,7 +871,6 @@
     SUBDIR += xmradio
     SUBDIR += xoscope
     SUBDIR += xsynth-dssi
-    SUBDIR += xvmixer
     SUBDIR += xwave
     SUBDIR += yell
     SUBDIR += ympd
